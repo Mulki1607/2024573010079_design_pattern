@@ -1,15 +1,12 @@
-package modul_1;
+package Praktikum_1.Latihan;
 
-public class GanjilWhile {
+public class GanjilFor {
     public static void main(String[] args) {
 
-        int i = 1;
-
-        while (i <= 20) {
+        for (int i = 1; i <= 20; i++) {
             if (i % 2 != 0) {
                 System.out.print(i + " ");
             }
-            i++;
         }
 
     }

@@ -1,4 +1,4 @@
-package modul_1;
+package Praktikum_1.Latihan;
 
 public class CekGenapGanjil {
 
