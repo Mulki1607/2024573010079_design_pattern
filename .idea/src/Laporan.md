@@ -47,7 +47,7 @@ Intinya jika dengan IDE tanpa adanya JDK maka kita tidak bisa mengembangkan apli
 
 5. Lalu run program untuk melihat hasil program
 #### Screenshoot Hasil
-![img.png](img.png)
+![img.png](../img.png)
 #### Analisa dan Pembahasan
 Pada bagian 1 menjelasankan tentang Java dan cara agar dapat menggunakan bahasa java dengan IDE dengan JDK sebagai compailer code JAVA agar bisa di mengerti oleh komputer.
 
@@ -82,7 +82,7 @@ Tipe Data adalah jenis data yang tersimpan dalam variabel contoh tipe data yaitu
 
 
 #### Screenshoot Hasil
-![img_1.png](img_1.png)
+![img_1.png](../img_1.png)
 #### Analisa dan Pembahasan
 Pada Praktikum ke 2 ini kita membahas tentang variabel dan tipe data, pada praktikum ini kita menggunakan umur,tinggi,isMahasiswa,jeniskelamin,dan nama sebagai variabel,sedangkan
 tipe data terletak di depan variabel yaitu int,boolean,double,char dan string.
@@ -112,7 +112,7 @@ Berikut operator yang di gunakan dalam Java untuk melakukan operasi antar variab
 
 
 #### Screenshoot Hasil
-![img_2.png](img_2.png)
+![img_2.png](../img_2.png)
 #### Analisa dan Pembahasan
 Pada praktikum 3 ini kita membahas tentang operasi operasi yang bisa di gunakan dalam program java, operasi dalam program diatas
 adalah penugasan dan aritmatika
@@ -141,7 +141,7 @@ Percabangan juga dikenal dengan “Control Flow”, “Struktur Kondisi”, “S
     }
 
 #### Screenshoot Hasil
-![img_3.png](img_3.png)
+![img_3.png](../img_3.png)
 #### Analisa dan Pembahasan
 Pada Praktikum ini kita menggunakan If/Else untuk percabangan yang dimana percabangan tersebut di gunakan untuk
 menentukan lulus atau tidak lulus berdasarkan nilai dalam variabel nilai.
@@ -167,7 +167,7 @@ Perulangan adalah sebuah cara untuk mengulangi kode yang sama beberapa kali dan 
     }
 
 #### Screenshoot Hasil
-![img_4.png](img_4.png)
+![img_4.png](../img_4.png)
 #### Analisa dan Pembahasan
 Pada Praktikum ini perulangan yang di gunakan adalah for/
 perulangan diatas digunakan untuk menghitung angka dari 1 sampai 5 dengan beberapa syarat pada for
@@ -236,15 +236,15 @@ Pada praktikum ini kita membuat code untuk memecahkan masalah faktorial,mencari 
 #### Screenshoot Hasil
 1.Faktorial :
 
-![img_5.png](img_5.png)
+![img_5.png](../img_5.png)
 
 2.Prima :
 
-![img_6.png](img_6.png)
+![img_6.png](../img_6.png)
 
 3.Segitiga :
 
-![img_7.png](img_7.png)
+![img_7.png](../img_7.png)
 #### Analisa dan Pembahasan
 Pada praktikum ini kita membahas tentang cara-cara untuk menyelesaikan masalah dengan Java
 dengan masalah yang pertama yaitu factorial dari 5 yaitu 120, yaitu 5*4*3*2*1 = 120,
