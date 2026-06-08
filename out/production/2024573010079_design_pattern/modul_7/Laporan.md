@@ -508,9 +508,7 @@ Pada program ini, `NotificationService` tidak langsung menentukan cara pengirima
 
 ### 4.4.4 Hasil Percobaan
 
-**Letakkan Screenshot 4 di sini: Output Program Notifikasi.**
-
-![Screenshot Output Praktikum 3](screenshot/output-praktikum-3.png)
+![img_2.png](img_2.png)
 
 ### 4.4.5 Analisa Praktikum 3
 
@@ -655,9 +653,6 @@ Jika ingin menambahkan metode pembayaran baru seperti QRIS, maka tidak perlu men
 
 ### 4.5.5 Hasil Percobaan
 
-**Letakkan Screenshot 5 di sini: Output Program Pembayaran E-Commerce.**
-
-![Screenshot Output Latihan](screenshot/output-latihan-payment.png)
 
 ### 4.5.6 Analisa Latihan
 
