@@ -275,9 +275,7 @@ Pada program ini, `Navigator` tidak menentukan sendiri jenis rute yang digunakan
 
 ### 4.2.4 Hasil Percobaan
 
-**Letakkan Screenshot 2 di sini: Output Program Navigasi Sederhana.**
-
-![Screenshot Output Praktikum 1](screenshot/output-praktikum-1.png)
+![img.png](img.png)
 
 ### 4.2.5 Analisa Praktikum 1
 
@@ -392,9 +390,7 @@ Pada program ini, class `PhotoEditor` hanya bertugas menjalankan filter yang sed
 
 ### 4.3.4 Hasil Percobaan
 
-**Letakkan Screenshot 3 di sini: Output Program Filter Foto.**
-
-![Screenshot Output Praktikum 2](screenshot/output-praktikum-2.png)
+![img_1.png](img_1.png)
 
 ### 4.3.5 Analisa Praktikum 2
 
@@ -512,9 +508,7 @@ Pada program ini, `NotificationService` tidak langsung menentukan cara pengirima
 
 ### 4.4.4 Hasil Percobaan
 
-**Letakkan Screenshot 4 di sini: Output Program Notifikasi.**
-
-![Screenshot Output Praktikum 3](screenshot/output-praktikum-3.png)
+![img_2.png](img_2.png)
 
 ### 4.4.5 Analisa Praktikum 3
 
@@ -659,9 +653,6 @@ Jika ingin menambahkan metode pembayaran baru seperti QRIS, maka tidak perlu men
 
 ### 4.5.5 Hasil Percobaan
 
-**Letakkan Screenshot 5 di sini: Output Program Pembayaran E-Commerce.**
-
-![Screenshot Output Latihan](screenshot/output-latihan-payment.png)
 
 ### 4.5.6 Analisa Latihan
 

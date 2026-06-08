@@ -275,9 +275,7 @@ Pada program ini, `Navigator` tidak menentukan sendiri jenis rute yang digunakan
 
 ### 4.2.4 Hasil Percobaan
 
-**Letakkan Screenshot 2 di sini: Output Program Navigasi Sederhana.**
-
-![Screenshot Output Praktikum 1](screenshot/output-praktikum-1.png)
+![img.png](img.png)
 
 ### 4.2.5 Analisa Praktikum 1
 
@@ -392,9 +390,7 @@ Pada program ini, class `PhotoEditor` hanya bertugas menjalankan filter yang sed
 
 ### 4.3.4 Hasil Percobaan
 
-**Letakkan Screenshot 3 di sini: Output Program Filter Foto.**
-
-![Screenshot Output Praktikum 2](screenshot/output-praktikum-2.png)
+![img_1.png](img_1.png)
 
 ### 4.3.5 Analisa Praktikum 2
 
